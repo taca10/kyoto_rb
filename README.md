@@ -1,1 +1,0 @@
-# kyoto_rb
