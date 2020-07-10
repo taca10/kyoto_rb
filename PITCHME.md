@@ -2,7 +2,7 @@
 
 ---
 
-### Kyoto.rb With Hanpy Dojo
+### Kyoto.rb With はんなりPython
 
 ### 2020/07/10
 
